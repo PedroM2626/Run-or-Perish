@@ -37,7 +37,7 @@ Run or Perish é um jogo de terror em primeira pessoa desenvolvido na Unity, ond
 - `Audio/`: Música, efeitos e sons ambientes  
 
 ## 🚀 Como Jogar
-1. Baixe o repositório ou build final (disponível em: https://mega.nz/folder/SoQhka4b#tsnMurxadxqGP0i6sFr6ig.  
+1. Baixe o repositório ou build final (disponível em: https://mega.nz/folder/SoQhka4b#tsnMurxadxqGP0i6sFr6ig).  
 2. Se estiver com os arquivos da Unity:  
    - Abra com Unity Hub.  
    - Execute a cena inicial (ex: `MainMenu` ou `Level_1`).  
