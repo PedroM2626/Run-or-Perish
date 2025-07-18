@@ -23,7 +23,7 @@ Run or Perish é um jogo de terror em primeira pessoa desenvolvido na Unity, ond
 - Sistema de transição de cena com fade e delay personalizado.  
 
 ## 🔧 Tecnologias Usadas
-- Unity (versão usada: [adicione a versão])  
+- Unity (versão usada: 2022)  
 - C# para lógica de jogo e sistemas  
 - TextMeshPro para UI  
 - Unity Animator para controle de estados (blend, transições, etc.)  
@@ -54,4 +54,4 @@ Este projeto é de uso pessoal e educacional. Não está licenciado para distrib
 ## 🙋‍♂️ Autor
 **Pedro Morato Lahoz**  
 💻 Programador por hobby  
-🔗 [GitHub](https://github.com/PedroM2626) | [LinkedIn]([https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/pedro-morato-lahoz-7996b1314/))  
+🔗 [GitHub](https://github.com/PedroM2626) | [LinkedIn](https://www.linkedin.com/in/pedro-morato-lahoz-7996b1314/))  
